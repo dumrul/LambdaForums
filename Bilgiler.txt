@@ -1,0 +1,4 @@
+NugetPackages LambdaForums.Data
+------------------
+Microsoft.EntityFrameworkCore.Tools  2.0.0
+Microsoft.AspNetCore.All 2.0.0
