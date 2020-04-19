@@ -6,3 +6,7 @@ C:\WesDoyle\LambdaForums\LambdaForums.Service\obj\Debug\netcoreapp2.0\LambdaForu
 C:\WesDoyle\LambdaForums\LambdaForums.Service\obj\Debug\netcoreapp2.0\LambdaForums.Service.AssemblyInfo.cs
 C:\WesDoyle\LambdaForums\LambdaForums.Service\obj\Debug\netcoreapp2.0\LambdaForums.Service.dll
 C:\WesDoyle\LambdaForums\LambdaForums.Service\obj\Debug\netcoreapp2.0\LambdaForums.Service.pdb
+C:\WesDoyle\LambdaForums\LambdaForums.Service\bin\Debug\netcoreapp2.0\LambdaForums.Data.dll
+C:\WesDoyle\LambdaForums\LambdaForums.Service\bin\Debug\netcoreapp2.0\LambdaForums.Data.pdb
+C:\WesDoyle\LambdaForums\LambdaForums.Service\obj\Debug\netcoreapp2.0\LambdaForums.Service.csprojAssemblyReference.cache
+C:\WesDoyle\LambdaForums\LambdaForums.Service\obj\Debug\netcoreapp2.0\LambdaForums.Service.csproj.CopyComplete
