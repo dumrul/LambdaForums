@@ -13118,7 +13118,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mahmut\\.nuget\\packages\\": {},
+    "C:\\Users\\Dumrul\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -13127,14 +13127,14 @@
       "projectUniqueName": "C:\\WesDoyle\\LambdaForums\\LambdaForums.Data\\LambdaForums.Data.csproj",
       "projectName": "LambdaForums.Data",
       "projectPath": "C:\\WesDoyle\\LambdaForums\\LambdaForums.Data\\LambdaForums.Data.csproj",
-      "packagesPath": "C:\\Users\\Mahmut\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Dumrul\\.nuget\\packages\\",
       "outputPath": "C:\\WesDoyle\\LambdaForums\\LambdaForums.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mahmut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Dumrul\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
