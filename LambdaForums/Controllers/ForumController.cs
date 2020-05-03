@@ -19,6 +19,7 @@ namespace LambdaForums.Controllers
         {
             _forumService = forumService;
         }
+
         public IActionResult Index()
         {
             var forums = _forumService.GetAll()
@@ -47,6 +48,7 @@ namespace LambdaForums.Controllers
                 Id = post.Id,
                 AuthorId = post.User.Id,
                 AuthorRating = post.User.Rating,
+                AuthorName=post.User.UserName,
                 Title = post.Title,
                 DatePosted = post.Created.ToString(),
                 RepliesCount = post.Replies.Count(),
