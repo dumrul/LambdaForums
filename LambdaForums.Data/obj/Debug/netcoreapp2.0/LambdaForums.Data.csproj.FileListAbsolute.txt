@@ -6,4 +6,3 @@ C:\WesDoyle\LambdaForums\LambdaForums.Data\obj\Debug\netcoreapp2.0\LambdaForums.
 C:\WesDoyle\LambdaForums\LambdaForums.Data\bin\Debug\netcoreapp2.0\LambdaForums.Data.pdb
 C:\WesDoyle\LambdaForums\LambdaForums.Data\obj\Debug\netcoreapp2.0\LambdaForums.Data.dll
 C:\WesDoyle\LambdaForums\LambdaForums.Data\obj\Debug\netcoreapp2.0\LambdaForums.Data.pdb
-C:\WesDoyle\LambdaForums\LambdaForums.Data\obj\Debug\netcoreapp2.0\LambdaForums.Data.csprojAssemblyReference.cache
